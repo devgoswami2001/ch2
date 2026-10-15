@@ -1,0 +1,17 @@
+
+git_auto.log
+
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
